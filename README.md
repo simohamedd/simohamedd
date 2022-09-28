@@ -1,4 +1,4 @@
-### Hello, Waving hand animated gif I'm BOUAZZAOUI Mohamed
+### Hello, I'm BOUAZZAOUI Mohamed
 
 - 😄 Pronouns: He/His :)
 - 🔭 I’m currently working on Scripting 
