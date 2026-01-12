@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simohamedd" alt="simohamedd" /></a> </p>
 
-- 🔭 I’m currently working on **Scripting**
+- 🔭 I’m currently working on **Malware hahah**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on **Youtube**
+- 👯 I’m looking to collaborate for **Start up**
 
-- 💬 Ask me about **ServiceNow**
+- 💬 Ask me about **ChatGbt hahah**
 
 - 📫 How to reach me **bouazzaouimohamed120@gmail.com**
 
