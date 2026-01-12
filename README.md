@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate for **Start up**
 
-- 💬 Ask me about **ChatGbt hahah**
+- 💬 Ask me about **honeypot**
 
 - 📫 How to reach me **bouazzaouimohamed120@gmail.com**
 
