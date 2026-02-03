@@ -1,6 +1,6 @@
 [![MasterHead](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm BOUAZZAOUI Mohamed</h1>
-<h3 align="center">A passionate Soft/Mal ware developer from Morocco</h3>
+<h3 align="center">A passionate Soft/Malware developer from Morocco</h3>
 <img align="right" alt="Coding" width="200" src="https://thumbs.gfycat.com/ExemplaryFairFeline-size_restricted.gif">
 
 
