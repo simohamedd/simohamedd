@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simohamedd" alt="simohamedd" /></a> </p>
 
-- 🔭 I'm currently working on **Malware hahah**
+- 🔭 I'm currently working on **SoftIAMalware hahah**
 
 - 🌱 I'm currently learning **Rust**
 
