@@ -20,6 +20,15 @@
 
 - ⚡ Fun fact **I am funny person**
 
+<h3 align="left">Featured project: Pocket 💷</h3>
+
+A private daily budget app I built with **React** and **Vite**. Set limits per day, week and month, log where the money goes, track savings goals, and sync everything to a private GitHub repo.
+
+<p align="left">
+<a href="https://simo-daily-money-manager.netlify.app"><img src="https://img.shields.io/badge/Open%20the%20app-1F6F50?style=for-the-badge&logo=netlify&logoColor=white" alt="Open the app" /></a>
+<a href="https://github.com/simohamedd/daily-money-manager"><img src="https://img.shields.io/badge/Source%20code-1A1F36?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@bouazza29392504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@bouazza29392504" height="30" width="40" /></a>
